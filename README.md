@@ -12,5 +12,6 @@
   <img src="https://user-images.githubusercontent.com/105423307/210189283-6c29733b-dfe3-4cc2-bcd3-1861eaae7c79.png" height="50" width="50" alt="LinkedIn logo">
 </a>
 
+![image](https://user-images.githubusercontent.com/105423307/213625771-e86ca592-fb69-4fe4-be5b-b1832da63bc0.png)
 
 
