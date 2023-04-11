@@ -22,7 +22,8 @@
 
 ### Connect with me
 
-[![LinkedIn](https://user-images.githubusercontent.com/105423307/210189283-6c29733b-dfe3-4cc2-bcd3-1861eaae7c79.png)](https://www.linkedin.com/in/tm-lewis-benson/) &nbsp; &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tm-lewis-benson/)
+[<img src="https://user-images.githubusercontent.com/105423307/210189283-6c29733b-dfe3-4cc2-bcd3-1861eaae7c79.png" height="25" width="25" alt="LinkedIn logo">](https://www.linkedin.com/in/tm-lewis-benson/) &nbsp; &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tm-lewis-benson/)
+
 
 
 
