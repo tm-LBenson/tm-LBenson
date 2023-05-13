@@ -1,5 +1,5 @@
 
-![intro-banner](https://user-images.githubusercontent.com/105423307/210188571-05a8d64f-c643-4609-b7fa-82a874d9c55a.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Lewis+Benson;Full+Stack+Web+Developer;Check+out+my+work!;Connect+with+me+on+LinkedIn;)](https://git.io/typing-svg)
 
 # Hi, I'm Lewis Benson 👋
 
