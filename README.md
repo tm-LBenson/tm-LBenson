@@ -10,11 +10,11 @@
 
 🎖️ As a heavy equipment construction supervisor in the military, I developed strong leadership and problem-solving skills. I'm committed to delivering high-quality work that meets and exceeds client expectations.
 
-🎓 Graduated from [Code Fellows](https://www.codefellows.org/), a full-time boot camp in Seattle, where I enhanced my web development skills and learned the MERN stack. Currently, I'm a TA at Codex Academy and the owner of Vet Stack Solutions LLC, a company focused on freelance work.
+🎓 Graduated from [Code Fellows](https://www.codefellows.org/), a full-time boot camp in Seattle, where I enhanced my web development skills and learned the MERN stack. Currently, I'm an instructor at Codex Academy and the owner of Vet Stack Solutions LLC, a company focused on freelance work.
 
 ### Experience
 
-🏗️ In one year of experience, I've worked on various projects, including a CRUD application using the MERN stack and collaborating on a game based on D&D. I've learned to work effectively in teams and developed strong problem-solving skills. Additionally, I've recently started my journey as a Teaching Assistant at Codex Academy, where I help future developers hone their skills.
+🏗️ In two years of experience, I've worked on various projects, including a CRUD applications using the MERN stack and collaborating on a game based on D&D. I've learned to work effectively in teams and developed strong problem-solving skills. Additionally, I've recently started my journey as an instructor at Codex Academy, where I help future developers hone their skills.
 
 📈 As the owner of Vet Stack Solutions LLC, I offer my services as a freelance developer, building scalable and efficient solutions for various clients.
 
