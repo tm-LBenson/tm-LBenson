@@ -6,19 +6,19 @@
 
 ### About Me
 
-🚀 I'm a web developer with a passion for solving problems and a love for music. I'm proficient in the **MERN stack**, pair programming, and Jest testing.
+🚀 I'm a passionate web developer with expertise in the **MERN stack**. I thrive on solving problems and creating efficient, scalable web solutions.
 
-🎖️ As a heavy equipment construction supervisor in the military, I developed strong leadership and problem-solving skills. I'm committed to delivering high-quality work that meets and exceeds client expectations.
+🎖️ My background as a heavy equipment construction supervisor in the military has instilled in me strong leadership and problem-solving skills. I strive to deliver high-quality work that meets and exceeds client expectations.
 
-🎓 Graduated from [Code Fellows](https://www.codefellows.org/), a full-time boot camp in Seattle, where I enhanced my web development skills and learned the MERN stack. Currently, I'm an instructor at Codex Academy and the owner of Vet Stack Solutions LLC, a company focused on freelance work.
+🎓 I hold a Bachelor of Science in IT with a focus on software development from Strayer University. Additionally, I graduated from [Code Fellows](https://www.codefellows.org/), a full-time boot camp in Seattle, where I honed my skills in the MERN stack. Currently, I'm an instructor at Codex Academy, where I help aspiring developers enhance their skills.
 
 ### Experience
 
-🏗️ In two years of experience, I've worked on various projects, including a CRUD applications using the MERN stack and collaborating on a game based on D&D. I've learned to work effectively in teams and developed strong problem-solving skills. Additionally, I've recently started my journey as an instructor at Codex Academy, where I help future developers hone their skills.
+🏗️ I've worked on a variety of projects, including CRUD applications using the MERN stack and collaborating on a D&D-based game. My focus on teamwork and problem-solving has been a key to my success. As an instructor at Codex Academy, I guide students in their journey to becoming proficient developers.
 
-📈 As the owner of Vet Stack Solutions LLC, I offer my services as a freelance developer, building scalable and efficient solutions for various clients.
+📈 I have also started Vet Stack Solutions LLC, providing freelance development services. Though still in its early stages, this venture has given me valuable experience in client interactions and project management.
 
-🔬 I enjoy tackling complex problems and staying up to date with the latest developments in the tech industry. In my free time, I love playing jazz on my guitar and saxophone, building computers, and exploring new hobbies. I have a passion for learning and am always looking for opportunities to grow and expand my knowledge.
+🔬 I'm always eager to tackle complex problems and stay updated with the latest tech trends. In my free time, I enjoy playing jazz on my guitar and saxophone, building computers, and exploring new hobbies. My love for learning drives me to constantly seek out new knowledge and growth opportunities.
 
 ### Connect with me
 
