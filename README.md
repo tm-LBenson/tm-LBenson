@@ -1,8 +1,8 @@
 # Lewis Benson
 
-Support Engineer @ Jamf · Software Engineer · Instructor
+Enterprise Support Engineer @ Jamf · Software Engineer · Instructor
 
-I build reliable web apps and automation for the Apple platform and the web. Day‑to‑day, I reach for TypeScript, React/Next.js, Node.js, AWS, Firebase, Docker, and Linux. I also run a small homelab and tinker with LLM/GenAI when it’s useful.
+I build reliable web apps and automation for the Apple platform and the web. Day‑to‑day, I reach for TypeScript, React/Next.js, Node.js, AWS, Firebase, Docker, and Linux. I also run a homelab and tinker with LLM/GenAI when it’s useful.
 
 ## Focus areas
 - Full‑stack TypeScript (Next.js, React, Node)
